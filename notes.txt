@@ -1,0 +1,10 @@
+const a="Deepak";
+const b="Vaibhav";
+const c="Vishal";
+const d="Praveen";
+
+export default c;
+
+
+import ul from './module1.mjs'
+console.log(ul);
